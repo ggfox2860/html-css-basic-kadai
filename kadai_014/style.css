@@ -1,18 +1,18 @@
 html {
   font-size: 20px;
-}
-
-body {
   font-family: "Arial", "Meiryo", sans-serif;
   text-align: center;
 }
 
 header {
   font-family: "Josefin Sans", sans-serif;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+h1 {
+  font-size: 2rem;
   text-shadow: 1px 1px 2px gray;
   letter-spacing: 1.2em;
-  border-bottom: solid 3px rgb(115, 115, 114);
-  font-size: 2rem;
 }
 
 .pink {
